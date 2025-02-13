@@ -41,6 +41,13 @@
 
 ---
 
+### 📌 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byseif21&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
+
+---
+
 ### 🌍 **Connect with Me**
 <p align="left">
 <a href="https://twitter.com/byseif21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
