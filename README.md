@@ -5,7 +5,7 @@
 
 🌱 I’m expanding my knowledge in **.NET Framework & Node.js**, focusing on backend optimizations and microservices.  
 
-📄 Check out my **[resume](https://drive.google.com/file/d/1BQpFudZFSC6PXPbmEZXxADTt_kmB0eou/view?usp=drive_link)** for more details about my experience.  
+📄 Check out my **[resume](https://drive.google.com/file/d/1S67cvStggfm6j68nwSr28vndCT1B18az/view?usp=drive_link)** for more details about my experience.  
 
 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/-seif-soliman/)**.  
 
