@@ -1,19 +1,19 @@
 <div align="center">
-    <span>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span>
+  <span>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></span>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=40&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=I'm+Seif+Soliman+Mohammed">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=I'm+Seif+Soliman+Mohammed">
 </h1>
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=300&section=header&text=Full%20Stack%20Engineer&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20scalable,%20elegant%20solutions%20with%20modern%20architecture&descAlignY=55&descAlign=62)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-seif-soliman/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byseif21)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byseif21)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@byseif21)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/byseif21)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://seifsoliman.netlify.app/)
-  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=250&section=header&text=Full%20Stack%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20scalable,%20elegant%20solutions%20with%20modern%20architecture&descAlignY=55&descAlign=62)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-seif-soliman/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byseif21)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byseif21)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@byseif21)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/byseif21)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://seifsoliman.netlify.app/)
 </div>
+
 
 ## 👨‍💻 Professional Summary
 
