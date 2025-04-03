@@ -6,6 +6,10 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=250&section=header&text=Full%20Stack%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Building%20scalable,%20elegant%20solutions%20with%20modern%20architecture&descAlignY=55&descAlign=62)
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=byseif21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-seif-soliman/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/byseif21)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/byseif21)
@@ -294,10 +298,6 @@ I'm always open to interesting conversations, collaboration opportunities, and n
 - 💼 **For professional inquiries**: [LinkedIn](https://www.linkedin.com/in/-seif-soliman/)
 - 🐦 **For quick discussions**: [Twitter](https://twitter.com/byseif21)
 - 🌐 **Visit my portfolio**: [Portfolio Website](https://seifsoliman.netlify.app/)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=byseif21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
 
 ---
 
