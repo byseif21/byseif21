@@ -42,36 +42,6 @@ Full Stack Engineer specializing in .NET ecosystem and JavaScript frameworks, wi
 ## 💻 Technical Expertise
 
 <div align="center">
-  
-### Backend Development
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
-      <br>C#
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
-      <br>.NET Core
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="48" height="48" alt="ASP.NET" />
-      <br>ASP.NET MVC
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-  </tr>
-</table>
 
 ### Frontend Development
 <table>
@@ -99,6 +69,36 @@ Full Stack Engineer specializing in .NET ecosystem and JavaScript frameworks, wi
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       <br>CSS3
+    </td>
+  </tr>
+</table>
+  
+### Backend Development
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+      <br>.NET Core
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="48" height="48" alt="ASP.NET" />
+      <br>ASP.NET MVC
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
     </td>
   </tr>
 </table>
