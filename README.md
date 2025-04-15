@@ -33,7 +33,7 @@ Full Stack Engineer specializing in .NET ecosystem and JavaScript frameworks, wi
 - 💻 **Open Source**: Actively contributing to open source projects that align with my expertise and interests
 - 🤝 **Community**: Committed to improving codebases, resolving issues, and sharing knowledge within the open source community
 - 🔍 **Open to**: Collaborative projects and technical discussions
-- 📄 [**View my detailed resume**](https://drive.google.com/file/d/1S67cvStggfm6j68nwSr28vndCT1B18az/view?usp=drive_link)
+- 📄 [**View my detailed resume**](https://drive.google.com/file/d/1YEh2i_sf_qytVzCmkX-4lGp1e9acKUiT/view?usp=drive_link)
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=byseif21&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
