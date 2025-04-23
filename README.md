@@ -27,7 +27,7 @@ Full Stack Engineer specializing in .NET ecosystem and JavaScript frameworks, wi
 
 ## 🚀 Current Focus
 
-- 🔭 **Building**: E-commerce platform using .NET 8 + React with microservice architecture
+- 🔭 **Building**: E-commerce platform using .NET 8 +
 - 🌱 **Learning**: Advanced .NET Framework architecture, Node.js performance optimization, and cloud-native design patterns
 - 🎯 **Specialization**: Frontend performance optimization, backend optimization, microservices, and CI/CD.
 - 💻 **Open Source**: Actively contributing to open source projects that align with my expertise and interests
