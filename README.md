@@ -19,20 +19,20 @@
 </div>
 
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
-Full Stack Engineer specializing in .NET ecosystem and JavaScript frameworks, with expertise in scalable web architectures, performance optimization, and clean code principles. Experienced in microservices design and cloud-native applications, with a passion for open source and collaborative development.
+Full‑Stack Engineer focused on the .NET ecosystem and modern JavaScript, building end‑to‑end web applications with an emphasis on clean, maintainable code, clear architecture, and active engagement with open source and collaborative development.
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-## 🚀 Current Focus
+## 🚀 Focus
 
-- 🔭 **Building**: E-commerce platform using .NET 8 +
-- 🌱 **Learning**: Advanced .NET Framework architecture, Node.js performance optimization, and cloud-native design patterns
-- 🎯 **Specialization**: Frontend performance optimization, backend optimization, microservices, and CI/CD.
-- 💻 **Open Source**: Actively contributing to open source projects that align with my expertise and interests
-- 🤝 **Community**: Committed to improving codebases, resolving issues, and sharing knowledge within the open source community
-- 🔍 **Open to**: Collaborative projects and technical discussions
+-  **Building**: pragmatic, production‑ready web applications and services
+-  **Learning**: deeper ASP.NET Core architecture, scalable API design, and cloud‑native concepts
+-  **Specialization**: frontend performance optimization, backend optimization, microservices, and CI/CD.
+-  **Open Source**: actively contributing to open source projects that align with my expertise and interests
+-  **Community**: committed to improving codebases, resolving issues, and sharing knowledge within the open source community
+-  **Open to**: collaborative projects and technical discussions
 - 📄 [**View my detailed resume**](https://drive.google.com/file/d/1YEh2i_sf_qytVzCmkX-4lGp1e9acKUiT/view?usp=drive_link)
 
 <div align="center">
@@ -202,73 +202,87 @@ Full Stack Engineer specializing in .NET ecosystem and JavaScript frameworks, wi
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">E-commerce Platform</h3>
+      <h3 align="center">MedLens – Medical AR Glasses</h3>
       <div align="center">
-       <a href="https://github.com/byseif21/DEPI-E-Commerce-.NET-project" target="_blank">
-         <!--  <img src="https://raw.githubusercontent.com/byseif21/byseif21/main/project_images/ecommerce.png" width="400" alt="E-commerce Platform"/>
-        </a> -->
-        <p>
-          <a href="https://github.com/byseif21/DEPI-E-Commerce-.NET-project" target="_blank">
+        <div>
+          <a href="https://github.com/byseif21/Medlens" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
-          <a href="#" title="Demo Unavailable">
-            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+          <a href="https://medlens.live" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
           </a>
-        </p>
-        <p><strong>C#, .NET 8, React, SQL Server, Azure</strong> - A full-featured e-commerce solution with microservice architecture, featuring real-time inventory management, payment processing, and responsive UI design.</p>
+          <br />
+          <code>React</code>
+          <code>Vite</code>
+          <code>Python</code>
+          <code>FastAPI</code>
+          <code>Supabase</code>
+        </div>
+        <br />
+        <p>AR-enabled medical glasses system that recognizes patients' faces and displays critical health information in real time.</p>
       </div>
     </td>
     <td width="50%">
-  <h3 align="center">Mr. Deli - Restaurant Website</h3>
-  <div align="center">
-    <a href="https://github.com/byseif21/frontend-restaurant" target="_blank">
-      <!-- <img src="https://raw.githubusercontent.com/byseif21/byseif21/main/project_images/restaurant.png" width="400" alt="Mr. Deli - Restaurant Website"/> -->
-    </a>
-    <p>
-      <a href="#" title="Code Unavailable">
-        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>
-      <a href="https://mr-deli.com/" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-      </a>
-    </p>
-    <p><strong>HTML, CSS, JavaScript</strong> - A beautifully designed, fully responsive restaurant website for <strong>Mr. Deli</strong>, featuring an interactive menu, smooth animations, and a reservation booking system.</p>
-  </div>
-</td>
+      <h3 align="center">SMA – Smart Home Automation</h3>
+      <div align="center">
+        <div>
+          <a href="https://github.com/byseif21/SHM" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://shm-rho.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=vercel&logoColor=white">
+          </a>
+          <br />
+          <code>TypeScript</code>
+          <code>React</code>
+          <code>Express</code>
+          <code>Tailwind</code>
+          <code>PostgreSQL</code>
+        </div>
+        <br />
+        <p>Home automation dashboard to control home devices locally and remotely with a responsive, real‑time UI.</p>
+      </div>
+    </td>
 </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">Typing Test Application</h3>
+      <h3 align="center">StyleZa – Full‑Stack E‑Commerce</h3>
       <div align="center">
-        <a href="https://github.com/byseif21/typing-test" target="_blank">
-        <!--  <img src="https://raw.githubusercontent.com/byseif21/byseif21/main/project_images/typingtest.png" width="400" alt="Typing Test App"/>
-        </a>-->
-        <p>
-          <a href="https://github.com/byseif21/Write_It_Fast" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-          </a>
-          <a href="#" title="Demo Unavailable">
-            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-          </a>
-        </p>
-        <p><strong>.NET, C#, SQL Server</strong> - An interactive typing test application with multiple difficulty levels, user statistics tracking, and performance analytics dashboard.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Styleza - Frontend Template</h3>
-      <div align="center">
-        <a href="https://github.com/byseif21/styleza" target="_blank">
-        <!--   <img src="https://raw.githubusercontent.com/byseif21/byseif21/main/project_images/styleza.png" width="400" alt="Styleza Template"/>
-        </a> -->
-        <p>
-          <a href="https://github.com/byseif21/StylezaFD" target="_blank">
+        <div>
+          <a href="https://github.com/byseif21/DEPI-E-Commerce-.NET-project" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
           <a href="https://byseif21.github.io/StylezaFD/" target="_blank">
+            <img src="https://img.shields.io/badge/DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+          </a>
+          <br />
+          <code>C#</code>
+          <code>ASP.NET Core MVC</code>
+          <code>EF Core</code>
+          <code>SQL Server</code>
+          <code>Bootstrap</code>
+        </div>
+        <br />
+        <p>Full e‑commerce app with accounts, admin dashboard, and order management.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Mr. Deli - Restaurant Website</h3>
+      <div align="center">
+        <div>
+          <a href="https://github.com/byseif21/frontend-restaurant" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+          <a href="https://mr-deli.com/" target="_blank">
             <img src="https://img.shields.io/badge/LIVE-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
           </a>
-        </p>
-        <p><strong>HTML, CSS, JavaScript</strong> - A responsive, modern frontend template for e-commerce and fashion websites with customizable components, animations, and cross-browser compatibility.</p>
+          <br />
+          <code>HTML</code>
+          <code>CSS</code>
+          <code>JavaScript</code>
+        </div>
+        <br />
+        <p>A fully responsive restaurant website for <strong>Mr. Deli</strong>, featuring an interactive menu, smooth animations, and a reservation booking system.</p>
       </div>
     </td>
   </tr>
